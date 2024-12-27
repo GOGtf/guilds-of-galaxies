@@ -1,5 +1,5 @@
 # Guilds of Galaxies
-## Real sime stratregy game - Prototype
+## Real time strategy game - Prototype
 
 #### Code has been moved to [gmargetic/guilds-of-galaxies](https://github.com/gmargetic/guilds-of-galaxies).
 
